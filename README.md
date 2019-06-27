@@ -1,9 +1,9 @@
-# crawler parser
+# semantic web parser
 
 Extract Schema.org structured data from HTML page
 
 # Overview
-crawler parser is a Java Libray that parse HTML page in order to extract schema.org vocabulary.
+semantic web parser parser is a Java Libray that parse HTML page in order to extract schema.org vocabulary.
 
 **Note that this library is still in active development and no stable version has been released yet. The API can change at anytime.**
 
