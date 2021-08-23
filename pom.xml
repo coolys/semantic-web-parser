@@ -82,7 +82,7 @@
         <!-- Dependencies Versions -->
         <log4j.version>2.11.0</log4j.version>
         <slf4j.version>1.7.25</slf4j.version>
-        <jsoup.version>1.11.3</jsoup.version>
+        <jsoup.version>1.14.2</jsoup.version>
         <schemaorg-java.version>1.0.1</schemaorg-java.version>
         <commons-lang3.version>3.7</commons-lang3.version>
         <junit.version>5.2.0</junit.version>
